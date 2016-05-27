@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/laravel5/database/migrations/2016_05_13_071423_create_projects_and_tasks_tables.php</file>
+            <file>file:/var/www/html/laravel5/app/Task.php</file>
+            <file>file:/var/www/html/laravel5/app/Http/Controllers/TasksController.php</file>
+            <file>file:/var/www/html/laravel5/resources/views/projects/show.blade.php</file>
+            <file>file:/var/www/html/laravel5/database/seeds/DatabaseSeeder.php</file>
+            <file>file:/var/www/html/laravel5/app/Console/Kernel.php</file>
+            <file>file:/var/www/html/laravel5/app/Project.php</file>
+            <file>file:/var/www/html/laravel5/database/seeds/ProjectsTableSeeder.php</file>
+            <file>file:/var/www/html/laravel5/database/seeds/TasksTableSeeder.php</file>
+            <file>file:/var/www/html/laravel5/resources/views/projects/index.blade.php</file>
+            <file>file:/var/www/html/laravel5/app/Http/routes.php</file>
+            <file>file:/var/www/html/laravel5/app/Exceptions/Handler.php</file>
+            <file>file:/var/www/html/laravel5/app/Events/Event.php</file>
+            <file>file:/var/www/html/laravel5/resources/views/app.blade.php</file>
+            <file>file:/var/www/html/laravel5/resources/views/projects/create.blade.php</file>
+            <file>file:/var/www/html/laravel5/.env</file>
+            <file>file:/var/www/html/laravel5/app/Http/Controllers/ProjectsController.php</file>
+        </group>
+    </open-files>
+</project-private>
